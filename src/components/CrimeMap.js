@@ -5,6 +5,7 @@ import React, { Component } from 'react'
 import Geocoder from 'react-map-gl-geocoder'
 import axios from 'axios'
 const mapboxToken = process.env.MAPBOX_ACCESS_TOKEN
+
 class CrimeMap extends Component {
   state = {
     crimeCategories: [],
