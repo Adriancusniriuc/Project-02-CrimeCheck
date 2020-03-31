@@ -15,7 +15,7 @@ This was my second project (built in a group) on the Software Engineering Immers
 </ol>
 
 **<h2>Brief</h2>**
-The app much consume a public API, have several components (at least one classical and one functional) and include a router - with several "pages".
+The app consumes a public API, have several components (at least one classical and one functional) and include a router - with several "pages".
 
 **<h2>Deployment</h2>**
 
